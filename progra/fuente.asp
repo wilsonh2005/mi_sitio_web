@@ -1,0 +1,295 @@
+<!--Wilson Geovanny Hernandez Mendez 
+	N. de carnet: 9390-25-29422 
+	Carrera: Ingeniería en Sistemas de Información 
+	Asignatura: 9390-004 – Introducción a los Sistemas de Cómputo
+	Ciclo: Primero Semestre: Primero
+	Año: 2025 PROYECTO DEL CURSO
+	Sede: El Naranjo-->
+
+
+<!doctype html>
+<html lang="es">
+
+<head>         <!--------- titulo y caracteres -->
+		<meta charset="UTF-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+		<link rel="stylesheet" href="styles.css">
+		<title> mi proyecto personal</title>
+</head> <!--- cabezera ------>
+
+
+<body background="k.jpg"  > <!--- inicia el cuerpo de la pagina y agregue fondo negro con background-->
+
+		<table width="80%" bgcolor="#fdfefe" align="center" cellpadding="15	"> 
+		<td> <!--- ingrese tabla para usar una columna y agrar todo el contenido--->
+			
+	
+	<h1>
+		<center>🌟 Bienvenidos a mi Proyecto Personal 🌟 </center> <!--- h1 inicia el primer titulo--->
+	</h1>
+
+	<p>
+		<b>¡Hola!</b>  Mi nombre es <b> Wilson Geovanny Hernández</b> y esta es una pequeña ventana a mis sueños, 	metas y aspiraciones. <br>
+	    En esta página, compartiré contigo quién soy, de dónde vengo, qué me inspira y hacia dónde quiero ir. 
+	    Hablaré de mis valores, mis metas personales y profesionales, mis pasiones, mis temores, y sobre todo, 
+	    de la visión que tengo para mi vida. Creo firmemente que tener un propósito claro es lo que nos impulsa cada día, 
+	    y este proyecto representa el mapa de ese propósito.
+   </p>
+
+	<center>
+		  <h1> Yo </h1> <!--- foto mia --->
+		  <img src="yo.jpg" width="20%">
+ 	</center>
+
+   <h1>
+   	<center>
+   		Historia familiar
+   	</center>
+   </h1>
+
+   <p>
+	  En dos lugares muy distintos de Guatemala. 
+	  Mi papá nació en Cobán, Alta Verapaz, una tierra llena de montañas y cafetales. 
+	  Por otro lado mi mamá vino al mundo en Jalapa, un departamento lleno de culturas, desde pequeños aprendieron que la vida no siempre es fácil, pero que con esfuerzo se puede salir adelante, crecieron en una familia unida, donde los valores y el amor por los demás eran parte de cada día, pero economicamente no eran estables y era lo uqe les faltaba. Desde joven, mis padres soñaban 
+	  con un futuro mejor y sabían que para lograrlo debían dar pasos grandes.
+	</p>
+
+	<p>
+	  Ambos, en diferentes momentos de sus vidas, decidieron migrar hacia la Ciudad de Guatemala en busca de nuevas oportunidades, dejaron atrás a su familia, pero también con miedo d elo que vendria, llegaron 
+	  a la capital con la intención de luchar por un mejor futuro.
+	</p>
+
+	<p>
+	  Pero el destino los unió, sus caminos se cruzaron cuando ambos fueron a unas piscinas. Se conocieron, se enamoroaron con el tiempo y de ese amor nací yo un hijo fruto del encuentro entre dos mundos distintos,
+	  Mi vida comenzó en la capital, pero llevo en mi corazón en Cobán y de Jalapa ya que naci en coban pero solo estube alla dos semanas despues de que naci. 
+	</p>
+
+	<h1> 
+		<center> Mi Niñez </center>
+	</h1>
+
+	<p>
+	  Yo nací el 2 de noviembre de 2005 cuando transcurrían las 13:30pm, trece horas con treinta minutos en el hospital 
+	  general Helen Losin en el departamento de Alta Verapaz, en el cual estaba mi papá con mi abuela y abuelo en 
+	  la sala de espera, esperando a que nazca y en el cual no hubo complicación en el parto gracias a Dios, nos fuimos 
+	  a Cobán porque mi abuela nos iba a cuidar, pero nos regresamos a la capital a los 15 días de que naciera. <br>	  
+	  Fui bautizado en la iglesia católica, en una ceremonia muy especial en la que me acompañaron mis abuelos. 
+	  Ese momento marcó el inicio de mi vida espiritual y familiar, rodeado de amor y bendiciones aun que actualmente no me considero catolico si no criatiano pero no deja de ser al mismo Dios que adoro y amo.
+	</p>
+	  <img src="1.png" width="25%">
+
+	
+	<p>
+	  Toda mi infancia la viví estudiando en la escuela Franklin Vespertina del Ano Roosevelt
+	  Empecé desde pre-kínder y estuve allí hasta cuarto primaria. 
+	  Fueron años llenos de aprendizajes y experiencias inolvidables. tambien abanderado varias veces, lo cual fue un gran orgullo tanto para mí como para mi familia y participé en varios actos cívicos, bailes y disfraces. Me encantaba formar parte de todo lo que hacía la escuela, porque me sentía parte de algo grande y especial.
+	</p> 
+	<img src="disfraz.png" width="25%">
+	<img src="baile.png" width="20%">
+	<img src="abanderado.png" width="35%">
+
+	<p>
+	  A la edad de 8 años enfrenté uno de los momentos más difíciles de mi infancia: 
+	  tuve un problema de salud y me tuvieron que operar los oídos. 
+	  Fue una etapa de miedo y muchas preguntas, pero gracias a Dios y al apoyo de mi familia, 
+	  la operación salió bien y pude seguir adelante con mi vida normalmente.
+	</p>
+
+	<p>
+	  Uno de los recuerdos más bonitos que tengo de esa etapa fue cuando, gracias a la escuela, 
+	  pude asistir a un campamento cristiano. Fue una experiencia única donde aprendí mucho sobre valores, compañerismo y fe, además, tuvimos la oportunidad de subir al volcán Pacaya. ¡Fue increíble! 
+	  Tenía apenas 11 años, y ese momento quedó grabado en mi corazón como una gran aventura.
+	</p>
+	<img src="pacaya.png" width="30%">
+
+	<p>
+	  A los 11 me mudé a Ciudad Quetzal y comencé a estudiar en la escuela Bosques del Quetzal. 
+	  Al principio fue difícil adaptarme al nuevo entorno, pero lo tomé como un nuevo comienzo.
+	</p>
+
+	<p>
+	  Sin embargo, al poco tiempo, enfrentamos una de las pruebas más duras como familia: se podria decir lo mas duro, mi papá sufrió un accidente en moto. Fue un momento muy doloroso, lleno de incertidumbre y miedo. 
+	  Pero Dios nos dio el milagro apesar de todo, él sigue con nosotros y cada día que pasa es una bendición más. 
+	  A partir de ahí, aprendí a valorar más a mi familia, la vida y cada momento. !NO se que haria, ni fuera sin papa! 
+	</p>
+
+
+	<h1> 
+		<center> Mi adolescencia </center> 
+	</h1>
+
+	<p>	
+      Comenzó en la pandemia del COVID-19. Fue una etapa difícil, distinta, en la que muchas cosas cambiaron de un día para otro. Tuve que adaptarme a un nuevo estilo de vida en la cual estudie en línea desde casa, en el colegio cristiano Fuentes de Luz, donde continué mi formación académica aunque de manera virtual.
+   </p>
+
+
+	 <p>
+	  A pesar del encierro, los toques de queda y las restricciones, encontraba momentos para salir a jugar pelota cuando no estaba permitido y era bonito correr de la policia esos pequeños momentos se volvieron grnades recuerdos en medio de una situación, en esos años también me aficioné a los videojuegos. Logré terminar el famoso juego Call of Duty modo zombi, algo que me dio alegría y una sensación de logro ya que lo completamos con unos amigos
+	</p>
+
+	 <P>
+	  A los 16 años aprendí a manejar moto fue una experiencia emocionante que me hizo sentir muy bien y es algo de lo que mas me gusta hacer hoy en dia, pero también ese mismo año, enfrenté otro desafortunado probelma en mi perosan pero esta vez eran mis ojoe, me examen de la vista y descubrí que no puedo ver con uno de mis ojos, y con el otro solo un poco. Según el médico, nací así, y por eso ahora debo usar lentes para proteger y mejorar mi visión. Fue un golpe duro al principio, pero no queda de otro mas que aceptar, usar lentes y cuidar mucho mi vista.
+	</P>
+
+	 <p>
+	  A los 17 años, empecé a hacer nuevas amistades que se volvieron muy importantes para mí. Con ellos viví experiencias únicas como salidas a la playa, viajes al IRTRA, días en la piscina y juegos de boliche, que probé por primera vez. Fueron momentos de risa, que extraño
+	</p>
+		<img src="casco.jpg" width="25%">
+
+	<h1> 
+		<center>Academico</center>
+    </h1>
+
+	<p>
+		estudie en la escuela lalmada Frnaklin Vespertina del Ano Roosvelt de prepirmaria hasta cuarto primaria, luego cuando me vine a vivir a Ciudad Quetzal estudie en la escuela Bosques 6 de quinto a sexto primaria y basicos los estudie en el colegio Fuentes de Luz de primero basico hasta terminar la carrera de divesdificado que termnie en 2024 de perito en Administración. Actualmente estudio el primer semestre de Ingenieria en Sistemas en la Universidad Mariano Galves de Guatemala
+	</p>
+		<img src="mi.jpg" width="20%">
+
+	<h1>  
+		<center>Personal</center>
+
+  </h1>			
+    	 
+    	 <p>
+			Me considero una persona feliz, alegre en todo momento. Siempre trato de mantener una actitud positiva ante la vida, incluso cuando las cosas no salen como espero y por eso, aunque tenga días malos como cualquiera, busco enfocarme en lo bueno, en lo que sí puedo controlar y mejorar. Me gusta ayudar a los demás, estar bien con las personas que me rodean, y evitar conflictos innecesarios. Disfruto de la paz, soy alguien bondadoso, me gusta estar en paz conmigo mismo. Valoro mucho la tranquilidad emocional y mental. Trato de no cargar rencores, ni pensamientos negativos hacia nadie. No deseo mal a ninguna persona, ni me meto en problemas que no me corresponden, no tengo vicios y no ando en malos pasos, respeto. Vivo mi vida con calma, tratando de hacer lo correcto y seguir mi propio camino, sin compararme con los demás, aunque si aveces me comparo con los demas y solo me daño porque me da tristeza con migo mismo por no esforzarme más.
+		</p>
+
+		<p>
+			Sé que tengo defectos como cualquiera, y uno de los que reconozco es la pereza demasiada pereza. A veces me cuesta mantener el impulso en lo que me propongo. Pero también soy consciente de que todo en la vida es un proceso, y que cada pequeño paso que doy cuenta, aun que en ciertos lugares no encaje, Le doy gracias a Dios por darme una mentalidad diferente a los demas y a mis papas por ser quien soy actualmente 
+		</p>
+			
+    
+    <h1> 
+		<center>Mis Metas</center>
+
+    </h1>	
+
+    <p>
+		<b>1. Comprar un medio de transporte</b><br>
+		Una de mis metas a corto plazo es adquirir un medio de transporte propio, para tener mejor mobilidad de ir al tabajo y la Universidad, facilitando mis actividades cotidianas, por ahora una moto y alago plazo primero Dios un carrito.
+	</p>
+	<img src="moto.webp" width="20%">
+
+	<p>	
+		<b>2. Graduarme de Ingeniero en Sistemas y Maestria en Ciberseguridad</b><br>
+		Uno de mis mayores objetivos es graduarme con éxito mis estudios y graduarme como Ingeniero en Sistemas y una maestria en ciberseguridad. Esta meta representa un paso muy grnade en mi desarrollo profesional, ya que me permitirá conseguir una mejor oportunidad laborales y continuar aprendiendo en el área de la tecnología. Se que sera muy complicado pero en nombre de Dios.
+	</p>
+	<img src="inge.jpg" width="25%">
+
+	<p>
+		<b>3. Emprender un negocio propio</b><br>
+		Quiero emprender un negocio que combine mis conocimientos en sistemas con las necesidades del mercado. O y a sea varias tiendas de barrio la idea es no depender de una empresa para obtner un salario, o emprender una empresa que brinde servicios como instalación de cámaras de seguridad, soporte técnico o soluciones tecnológicas para diferentes tipos de clientes.
+	</p>
+	<img src="negocio.png" width="20%">
+
+
+	<p>
+		<b> 4. Viajar a Suiza</b><br>
+		Viajar a Suiza es uno de mis sueños personales. Me gustaría conocer sus hermosos paisajes, montañas, lagos y experimentar su estilo de vida. Deseo ir algun día.
+	</p>
+
+    <img src="pais.jpeg" width="20%">
+
+ 	<h1> 
+		<center>Pasatiempos</center>
+	</h1>
+
+    		<ul> <!------------ul sirve para listas desordenadas--->
+    			<li>Jugar futbol</li>
+    			<li>Salir a rodar en moto</li>
+    			<li>Escuchar música </li>
+    			<li>Salir a comer </li>
+    			<li>Ver anime</li>
+    		</ul>
+
+
+  <h1> 
+		<center>Deportes</center>
+	</h1>	
+
+    	<p>
+    		Unicamente el deporte que práctico, veo, juego, escucho es el <b>futbol</b> es un deporte hermoso que te llena de alegria pero tmabien de tristesa
+    	</p>
+    		<img src="fut.jpeg" width="205">
+
+ <h1> 
+		<center>Lo que me gusta</center>
+ </h1>
+
+			<ul> 
+				<li>La coca cola</li>
+				<li>la pizza y hamburguesas</li>
+				<li>pasasr tiempo con seres queridos y pajeras </li>
+				<li>El anime de one piece</li>
+				<li>El futbol</li>
+				<li>Las motos </li>
+				<li>El frio</li>   
+				<li>Los perritos</li>
+				<li>El heladdo </li>  
+				<li>El color negro</li>                                                                                                                                                                       
+			</ul>
+
+	<h1> 
+		<center>Lo que no me gusta</center>
+  </h1>	
+
+    	<ul> 
+    			<li>Las verduras</li>
+    			<li>Que me falten el respeto</li>
+    			<li>no me gusta beber ni fumar	</li>
+    			<li>No me gusta el trafico de la ciudad</li>
+    			<li>las personas que humillan a otros</li>
+    			<li>Mi disciplina y mi pereza</li>
+			</ul>
+   
+  <h1> 
+		<center> A quienes admiro </center>
+	</h1>
+
+	<p>
+		<b>1. Mis padres</b><br>
+			Admiro profundamente a mis padres porque han sido un ejemplo constante de esfuerzo, dedicación y amor incondicional. Aunque no siempre tuvimos lujos ellos me ofrecieron cosas aún más valiosas: un hogar lleno de cariño, su tiempo, sus consejos, su apoyo incondicional, sin maltrato, la seguridad de saber que siempre contaré con ellos que vale mucho mas que cual queir otra cosa . Han luchado con muchas dificultades para que yo pudiera salir adelante, y gracias a su esfuerzo hoy soy la persona que soy. Me enseñaron a valorar lo importante, a trabajar duro a no rendirme y sobre todo a amar. al decir verdad ellos son mis verdaderos héroes.
+	</p> 
+		<img src="padres.jpg" width="20%">
+
+		<p>
+		<b>2. Lionel Messi</b><br>
+			a nivel de famosos admiro a Lionel Messi no solo por su talento como futbolista, sino por su historia de vida porque desde muy pequeño enfrentó grandes obstáculos, como una condición médica que le dificultaba crecer, y sin embargo nunca dejó de luchar por sus sueños. Su esfuerzo, humildad y constancia lo llevaron a convertirse en uno de los mejores jugadores de la historia del fútbol. A pesar de su fama, sigue siendo una persona sencilla, centrada en su familia y en su pasión y con lo del mundial desde joven soñaba en ganrlo y en 2024 estuvo a punto quednandop segundo lugar él queria conseguir un titulo para argentina y no podia aun que lo intaba pero en resumen no fue hasta 2022 que gano es tan apreciado Mundial que verlo feliz hizo no solo a mi llorar de alegria si no a muchas persoanas. por eso su trayectoria me inspira a no rendirme, a confiar en mis capacidades y a entender que, con trabajo duro, los sueños sí se pueden lograr.
+		</p>
+		<img src="messi.jpg" width="20%">
+
+		<p>
+		<b>3. Monkey D. Luffy (One Piece)</b><br>
+		Aunque es un personaje de anime (ficcion), admiro mucho a Luffy, el protagonista de One Piece. Él representa valores muy importantes para mí: siempre sonríe, es optimista incluso en los momentos más difíciles, y nunca deja de luchar por su sueño de convertirse en el Rey de los Piratas. Pero más allá de su sueño, Luffy destaca por su bondad, su lealtad hacia sus amigos y su deseo de ayudar a los demás sin esperar nada a cambio porque siempre busca la manera de ayudar y hacer lo corecto. Me inspira su forma de ver la vida, su valentía y su determinación para superar cualquier obstáculo con una sonrisa en el rostro y desearaia teneer la alegria que ese personaje tiene y transmite.
+		</p>
+		<img src="luffy.webp" width="20%">
+   
+
+    <h1> 
+			<center>videos</center>
+		</h1>	 
+
+    <center>
+		  <video width="640" height="360" controls> <!--- estas etiquetas sirven para agjuntar un video--->
+		  <source src="video.mp4" type="video/mp4">
+    	  </video>
+    </center>
+
+
+   <h1> 
+			<center>Sitios recomendados</center>
+	 </h1>
+
+		<a href="https://es.wikipedia.org/wiki/Wikipedia"> abrir wikipedia...</a> <br> <!--- la etiqueta a sirve para adjuntar lincks para llevarnos a otras paginas--->
+
+   <center>
+  	 <a href="documentacion.html"> <img src="button.png" width=" 30%"> </a>
+   </center> <br>
+
+
+
+</td> <!--- cierro la columna de tabla ya que todo el contenido esta en un acolumna, que dio efecto de queeste centrado y con fondo negro de body en los lados--->
+
+</table> <!--- cierro tabla que me permitio insetar un columna --->
+</body> <!--- cierro el cuerpo de html--->
+
